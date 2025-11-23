@@ -71,7 +71,7 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -zzhi
 
 env:
   TZ: Etc/UTC

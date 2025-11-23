@@ -71,8 +71,6 @@ on:
         options:
           - -ophub
           - -yourname
-      kernel_config: 
-        6.1.y: kernel/config
 
 env:
   TZ: Etc/UTC
